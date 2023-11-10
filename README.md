@@ -20,7 +20,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/abhijeetthakur26/chat-app.git
 ```
 
 Go to the project directory
