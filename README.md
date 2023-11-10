@@ -32,6 +32,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
+  cd backend/  
   npm install
 ```
 
@@ -43,7 +44,8 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  cd backend/  
+  npm start
 ```
 Start the Client
 
